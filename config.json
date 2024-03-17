@@ -1,0 +1,8 @@
+{
+  "input_location": "input/",
+  "data_location": "data/",
+  "cleaned_data_location": "data/cleaned/",
+  "export_location": "data/export/",
+  "combined_filename": "combined_statement.xlsx",
+  "static_data_location": "static/"
+}
